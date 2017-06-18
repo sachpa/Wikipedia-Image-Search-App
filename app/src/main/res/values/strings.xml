@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OutlookAssignment</string>
+    <string name="search_activity_title">Wikipedia Image Search</string>
+    <string name="error_something_went_wrong">Something went wrong! Try again.</string>
+    <string name="error_no_network">Oops! No network. Connect to internet and retry.</string>
+    <string name="message_start_search_empty">Lets start!</string>
+    <string name="message_start_search_at_least_three">Well! Enter atleast three characters</string>
+    <string name="message_nothing_to_show">No Results to show, try something new.</string>
+    <string name="search_text_hint">Type to search</string>
+
+</resources>
